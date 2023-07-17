@@ -24,41 +24,41 @@ Technology
   <a href="https://www.linkedin.com/in/jos%C3%A9-mariotto-neto-39b943224/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   <h2> Technologies I use and study: </h2>
-    <img align="center" alt="victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="victor-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-       <img align="center" alt="victor-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">  
-   <img align="center" alt="victor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="victor-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"">
-    <img align="center" alt="victor-DotnetCore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-   <img align="center" alt="victor-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
-    <img align="center" alt="victor-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-    <img align="center" alt="victor-sqlserver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-    <img align="center" alt="victor-SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+    <img align="center" alt="ze-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="ze-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="ze-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="ze-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+       <img align="center" alt="ze-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">  
+   <img align="center" alt="ze-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="ze-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"">
+    <img align="center" alt="ze-DotnetCore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+   <img align="center" alt="ze-postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
+    <img align="center" alt="ze-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" alt="ze-sqlserver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+    <img align="center" alt="ze-SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
 </div>
 
 <div style="display: inline_block"><br>
   <h2> What is my IDE? </h2>
-    <img align="center" alt="victor-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+    <img align="center" alt="ze-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
 
 
 <div align="center"><br>
   <table>
-    <tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=torugo99&theme=github_dark"/></td><td>
-    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=torugo99&theme=github_dark"/></td></tr>
+    <tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmariotto93&theme=github_dark"/></td><td>
+    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jmariotto93&theme=github_dark"/></td></tr>
   </table>
   <table>
-    <tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=torugo99&theme=github_dark"/></td><td>
-    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=torugo99&theme=github_dark"/></td><td>
-    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=torugo99&theme=github_dark"/></td></tr>
+    <tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jmariotto93&theme=github_dark"/></td><td>
+    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jmariotto93&theme=github_dark"/></td><td>
+    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jmariotto93&theme=github_dark"/></td></tr>
   </table>
 </div>
 
 <div align="center"><br>
 
-  ![Snake animation](https://github.com/torugo99/torugo99/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/jmariotto93/jmariotto93/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 </div>
