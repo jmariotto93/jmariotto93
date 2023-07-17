@@ -38,8 +38,29 @@ Technology
     <img align="center" alt="victor-SQLite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
 </div>
 
-  ![Snake animation](https://github.com/jmariotto93/jmariotto93/blob/output/github-contribution-grid-snake.svg)
-  
+<div style="display: inline_block"><br>
+  <h2> What is my IDE? </h2>
+    <img align="center" alt="victor-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+</div>
+
+
+<div align="center"><br>
+  <table>
+    <tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=torugo99&theme=github_dark"/></td><td>
+    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=torugo99&theme=github_dark"/></td></tr>
+  </table>
+  <table>
+    <tr><td><img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=torugo99&theme=github_dark"/></td><td>
+    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=torugo99&theme=github_dark"/></td><td>
+    <img height="154em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=torugo99&theme=github_dark"/></td></tr>
+  </table>
+</div>
+
+<div align="center"><br>
+
+  ![Snake animation](https://github.com/torugo99/torugo99/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 </div>
 
 <div align="center">
