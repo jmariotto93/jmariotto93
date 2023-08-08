@@ -57,9 +57,6 @@ Technology
   </table>
 </div>
 
-<div align="center"><br>
-  ![Snake animation](https://github.com/jmariotto93/jmariotto93/blob/output/github-contribution-grid-snake.svg)
-</div>
 </div>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
