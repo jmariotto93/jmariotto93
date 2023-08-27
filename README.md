@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4839bf&height=120&section=header"/>
-<img src="https://media2.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif?cid=6c09b9520y94ug3buvudnj16maruz8b2becmzi24o6h9ed13&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
+<img width=100% src="https://j.gifs.com/YE6OJA.gif" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Mariotto+José;I'm+from+Lorena,+SP;I+studying+Management+Techno...+at+FATEC+Guaratingueta;Be+Welcome!+:%29)](https://git.io/typing-svg)
 Technology
