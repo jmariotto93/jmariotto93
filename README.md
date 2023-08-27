@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4839bf&height=120&section=header"/>
-<img src="![image]([https://github.com/jmariotto93/jmariotto93/assets/95873845/5a0bb9d0-79ce-44b1-a2ef-2e38aab90736](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2F1kc1&psig=AOvVaw0ah2gRIgzBx5br6lPVyBkL&ust=1693254558169000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMimqvXW_YADFQAAAAAdAAAAABAJ))" />
+<img src="[https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fanimation-tech-1oF1KAEYvmXBMo6uTS&psig=AOvVaw0ah2gRIgzBx5br6lPVyBkL&ust=1693254558169000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMimqvXW_YADFQAAAAAdAAAAABAg)" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Mariotto+José;I'm+from+Lorena,+SP;I+studying+Management+Techno...+at+FATEC+Guaratingueta;Be+Welcome!+:%29)](https://git.io/typing-svg)
 Technology
