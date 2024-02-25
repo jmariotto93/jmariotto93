@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-<img width=100% height="350px" src="https://i.makeagif.com/media/1-01-2021/tJi_ie.gif" />
+<img width=100% height="350px" src="https://t4.ftcdn.net/jpg/05/96/80/97/360_F_596809736_lzdwKMiJ6I2drjTRVK6oM9OOCVXPjDxk.jpg" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Mariotto+José;I'm+from+Lorena,+SP;Im+Front-End+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
