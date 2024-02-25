@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-<img width=100% height="350px" src="https://www.technoloader.com/blog/wp-content/uploads/2020/01/Hire-React-Native.gif" />
+<img width=100% height="350px" src="[https://www.technoloader.com/blog/wp-content/uploads/2020/01/Hire-React-Native.gif](https://i.pinimg.com/564x/dd/13/bc/dd13bcc6005a9af92b310ee13e81d0b8.jpg)" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Mariotto+José;I'm+from+Lorena,+SP;Im+Front-End+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 Technology
