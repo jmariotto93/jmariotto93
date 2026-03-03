@@ -5,7 +5,7 @@
 
 
 - 🔭 Passionate about technology
-- 🌱 I'm a front end developer jr
+- 🌱 Building scalable APIs with Node.js and modern interfaces with React and Next.
 <div align="center">
 
 <div align="center">  
