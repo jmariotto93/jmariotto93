@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 <img width=100% height="200px" src="https://miro.medium.com/v2/resize:fit:679/1*WKS5uUEDzK4YdVRq7DOkbw.gif" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Mariotto+José;I'm+from+Lorena,+SP;Im+Front-End+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Mariotto;I'm+from+Berlin,+Germany;Im+Front-End+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 - 🔭 Passionate about technology
